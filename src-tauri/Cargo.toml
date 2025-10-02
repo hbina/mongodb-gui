@@ -20,7 +20,7 @@ tauri = { version = "1.0.9", features = ["api-all"] }
 id3 = "1.0.2"
 mp4ameta = "0.11.0"
 base64 = "0.13.0"
-mongodb = { version = "2.2.1", default-features = false, features = [ "sync", "bson-chrono-0_4" ] }
+mongodb = { version = "2.8.2", default-features = false, features = [ "sync", "bson-chrono-0_4" ] }
 lazy_static = "1.4.0"
 
 [features]
